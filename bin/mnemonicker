@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'mnemonicker/cli'
+
+result = Mnemonicker::CLI.run(*ARGV)
+
+exit(1) unless result
