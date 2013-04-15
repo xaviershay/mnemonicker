@@ -39,7 +39,7 @@ System
    9 | p, b      | p and b both very similar shape to 9
 
    Any sounds not in this list (vowels, "w", "h", "x") are "free" and do not
-   represent anything.
+   represent nothing.
 
 > mnemonicker encode 314
 emitter
